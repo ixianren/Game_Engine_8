@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Acceleration.cs" />
+    <Compile Include="Assets\KartsOption.cs" />
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Backend\TemplateEditorDetection.cs" />
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\BallGame\EmitParticlesOnBallBounce.cs" />
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Kart\EmitParticlesOnKartBounce.cs" />

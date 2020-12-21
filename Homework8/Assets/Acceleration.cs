@@ -20,7 +20,7 @@ public class Acceleration : MonoBehaviour
     {
         if (other.tag == "Accelerator")
         {
-            StartCoroutine(Acceler(2f));
+            StartCoroutine(Acceler(1.5f));
         }
     }
 
